@@ -2,4 +2,6 @@ after*
 before*
 cli_wallet
 witness_node
+logs*
+data/my-blockprod/blockchain/
 
